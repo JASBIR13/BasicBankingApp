@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="blue_200">	#81d4fa</color>
+    <color name="blue_500">	#03a9f4</color>
+    <color name="blue_700">	#0288d1</color>
+    <color name="yellow_A100">#F4FF81</color>
+    <color name="yellow_A700">#AEEA00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#1B1E24</color>
+    <color name="dark_grey_card">#252937</color>
+</resources>
